@@ -119,3 +119,4 @@ ChatBubble.propTypes = {
 };
 
 export default ChatBubble;
+export type { ChatBubbleProps };
